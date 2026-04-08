@@ -1,0 +1,62 @@
+{
+  "apps": [
+    {
+      "name": "My Today Lucky Number",
+      "description": "Discover your personalised lucky number every day. Fun, uplifting, and a great way to start your morning.",
+      "iconUrl": "http://viyali.com/wp-content/uploads/2026/03/logo.png",
+      "platforms": ["ios", "android"],
+      "tags": ["Daily", "Fun", "Lifestyle"],
+      "learnMoreUrl": "https://viyali.com/my-today-lucky-number/",
+      "playStoreUrl": "https://play.google.com/store/apps/details?id=com.letsdosimple.mytodayluckynumber&hl=en",
+      "appStoreUrl": "https://apps.apple.com/us/app/my-today-lucky-number/id6748554246",
+      "badge": "top",
+      "rating": "4.7"
+    },
+    {
+      "name": "Viyali Notes",
+      "description": "Quickly record inspiration, protect your privacy, and access your notes anywhere. Simple, fast, and encrypted.",
+      "iconUrl": "http://viyali.com/wp-content/uploads/2026/03/resed-logo.png",
+      "platforms": ["ios", "android"],
+      "tags": ["Privacy", "Sync", "Productivity"],
+      "learnMoreUrl": "https://viyali.com/notes-by-viyali/",
+      "playStoreUrl": "https://play.google.com/store/apps/details?id=com.viyali.notes",
+      "appStoreUrl": "https://apps.apple.com/us/app/notes-by-viyali/id6759003337",
+      "badge": "new"
+    },
+    {
+      "name": "Suggestion+",
+      "description": "Collect anonymous suggestions from your team, friends and family. Build a culture of honest feedback.",
+      "iconUrl": "http://viyali.com/wp-content/uploads/2026/03/unnamed-1z.png",
+      "platforms": ["android", "ios_coming"],
+      "tags": ["Anonymous", "Team", "Feedback"],
+      "learnMoreUrl": "https://suggestion.plus/",
+      "playStoreUrl": "https://play.google.com/store/apps/details?id=com.letsdosimple.suggestionplus",
+      "appStoreComing": true,
+      "badge": "top",
+      "rating": "4.9"
+    },
+    {
+      "name": "Findy Plus",
+      "description": "Smart family tracking with privacy-first location sharing. Always know your loved ones are safe.",
+      "iconUrl": "http://viyali.com/wp-content/uploads/2026/03/Preview-3.png",
+      "platforms": ["android", "ios_coming"],
+      "tags": ["Family Safety", "Location", "Privacy"],
+      "learnMoreUrl": "https://findy.plus/",
+      "playStoreUrl": "https://play.google.com/store/apps/details?id=com.letsdosimple.findyplus&hl=en_IN",
+      "appStoreComing": true,
+      "badge": "top",
+      "rating": "4.8"
+    },
+    {
+      "name": "Drink Water Tracker",
+      "description": "Log every sip in one tap, get smart reminders, and track your daily hydration effortlessly.",
+      "iconUrl": "http://viyali.com/wp-content/uploads/2026/04/Frame-2-1.png",
+      "platforms": ["android", "ios_coming"],
+      "tags": ["Health", "Hydration", "Daily Habits"],
+      "learnMoreUrl": "https://viyali.com/drink-water-tracker/",
+      "playStoreUrl": "https://play.google.com/store/apps/details?id=com.viyali.drinkwatertracker",
+      "appStoreComing": true,
+      "badge": "new"
+    }
+  ]
+}
