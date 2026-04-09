@@ -3,45 +3,62 @@
     {
       "name": "My Today Lucky Number",
       "description": "Discover your personalised lucky number every day. Fun, uplifting, and a great way to start your morning with a positive mindset.",
+      "icon": "https://viyali.com/wp-content/uploads/2026/03/logo.png",
       "learnMoreUrl": "https://viyali.com/my-today-lucky-number/",
       "playStoreUrl": "https://play.google.com/store/apps/details?id=com.letsdosimple.mytodayluckynumber&hl=en",
       "appStoreUrl": "https://apps.apple.com/us/app/my-today-lucky-number/id6748554246",
       "badge": "top",
-      "rating": "4.7"
+      "rating": "4.7",
+      "tags": ["Daily", "Fun", "Lifestyle"],
+      "platform": ["ios", "android"]
     },
     {
       "name": "Viyali Notes",
       "description": "Quickly record inspiration, protect your privacy, and access your notes anywhere. Simple, fast, and encrypted.",
+      "icon": "https://viyali.com/wp-content/uploads/2026/03/resed-logo.png",
       "learnMoreUrl": "https://viyali.com/notes-by-viyali/",
       "playStoreUrl": "https://play.google.com/store/apps/details?id=com.viyali.notes",
       "appStoreUrl": "https://apps.apple.com/us/app/notes-by-viyali/id6759003337",
-      "badge": "new"
+      "badge": "new",
+      "rating": "4.7",
+      "tags": ["Privacy", "Sync", "Productivity"],
+      "platform": ["ios", "android"]
     },
     {
-      "name": "Suggestion plus",
+      "name": "Suggestion+",
       "description": "Collect anonymous suggestions from your team, friends and family. Build a culture of honest feedback — no names, no pressure, just real ideas.",
+      "icon": "https://viyali.com/wp-content/uploads/2026/03/unnamed-1z.png",
       "learnMoreUrl": "https://suggestion.plus/",
       "playStoreUrl": "https://play.google.com/store/apps/details?id=com.letsdosimple.suggestionplus",
       "appStoreUrl": null,
       "badge": "top",
-      "rating": "4.9"
+      "rating": "4.9",
+      "tags": ["Anonymous", "Team", "Feedback"],
+      "platform": ["android"]
     },
     {
       "name": "Findy Plus",
       "description": "Smart family tracking with privacy-first location sharing. Always know your loved ones are safe — without compromising their privacy.",
+      "icon": "https://viyali.com/wp-content/uploads/2026/03/Preview-3.png",
       "learnMoreUrl": "https://findy.plus/",
       "playStoreUrl": "https://play.google.com/store/apps/details?id=com.letsdosimple.findyplus&hl=en_IN",
       "appStoreUrl": null,
       "badge": "top",
-      "rating": "4.8"
+      "rating": "4.8",
+      "tags": ["Family Safety", "Location", "Privacy"],
+      "platform": ["android"]
     },
     {
       "name": "Drink Water Tracker",
       "description": "Log every sip in one tap, get smart reminders around your schedule, and track your daily and monthly hydration — effortlessly.",
+      "icon": "https://viyali.com/wp-content/uploads/2026/04/Frame-2-1.png",
       "learnMoreUrl": "https://viyali.com/drink-water-tracker/",
       "playStoreUrl": "https://play.google.com/store/apps/details?id=com.viyali.drinkwatertracker",
       "appStoreUrl": null,
-      "badge": "new"
+      "badge": "new",
+      "rating": null,
+      "tags": ["Health", "Hydration", "Daily Habits"],
+      "platform": ["android"]
     }
   ]
 }
